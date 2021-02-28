@@ -1,5 +1,5 @@
 '''
-Tests for the sleep_in function for [this Coding Bat problem](https://codingbat.com/prob/p173401)
+Unit tests for the sleep_in function for [this Coding Bat problem](https://codingbat.com/prob/p173401)
 '''
 
 # import the code to be tested
